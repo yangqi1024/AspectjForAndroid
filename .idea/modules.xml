@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AspectjForAndroid.iml" filepath="$PROJECT_DIR$/AspectjForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildSrc/BuildSrc.iml" filepath="$PROJECT_DIR$/BuildSrc/BuildSrc.iml" />
+      <module fileurl="file://E:\project\opensource\AspectjForAndroid\BuildSrc\BuildSrc.iml" filepath="E:\project\opensource\AspectjForAndroid\BuildSrc\BuildSrc.iml" />
+      <module fileurl="file://E:\project\opensource\AspectjForAndroid\BuriedPoint.iml" filepath="E:\project\opensource\AspectjForAndroid\BuriedPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
